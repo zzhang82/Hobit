@@ -1,0 +1,44 @@
+Final Breakdown
+
+Walkthrough 	20 mrk
+Explanations 	10 mrk
+Programming	10 mrk
+
+First walkthrough about threading uses bind, 
+passes structure, 
+run twice once non threaded once threaded,
+know thread join and accumulate, final answer adds up threads
+
+2nd walkthrough
+Uses transform,
+2 transforms - transform (x.begin(), x.end(), out.begin(), fn) (simple form)
+	     - transform with they as well
+best to write a program to play around with it.
+
+in the algorthim notes 
+
+3rd questions are a bunch of short questions.
+a) What are benifits using a vector and what are the benifits of a list
+b) What are emplace back and emplace front
+c) describe one advantage of a function object vs a lambda
+	-object can have member functions/ constructors
+	-lambda's can have a capture
+4th
+How to print out a vector vector string with a range based for
+
+5th
+What are smart pointers?
+-smart pointers are things that automatically call delete when the run out of scope.
+
+6th
+
+Write some code that uses compositions, associations, aggregations
+-How to write a composite class (like stations from workshop) maybe an addRoom/House file in attic have to check
+-Might be another example with clubs and students in attic. Maybe Motor and car
+-Ducks in a pond is another example of aggregation
+
+
+
+
+
+
